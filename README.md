@@ -38,7 +38,7 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 <img align="left" alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
           
 
-<img align="left" alt="github" width="26px" style="padding-right:10px;" src="https://github.com/tailwindlabs.png?size=40">
+<img align="left" alt="tailwind" title="tailwindcss" width="26px" style="padding-right:10px;" src="https://github.com/tailwindlabs.png?size=40">
 
 <img align="left" alt="JavaScript" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" style="padding-right:10px;"/>
 
@@ -55,7 +55,7 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 <img align="left" alt="github" width="26px" title="github" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 
-<img align="left" alt="webpack" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
+<img align="left" alt="webpack" title="webpack"  width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
 
 
 <br />
