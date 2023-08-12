@@ -73,4 +73,8 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 - 📬 kelvintawian224@gmail.com
 
 
+### Weekly Development Breakdown
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
