@@ -6,13 +6,7 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Kelvin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/) [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
-
-<!-- ### CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
-
-👉 [Join Here](https://islemmaboud.com/join-newsletter) -->
-
+[![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Kelvin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/) [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
 
 <!-- TODO: Add last video link -->
 
