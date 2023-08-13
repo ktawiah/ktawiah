@@ -9,13 +9,6 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/KelvinTawiah928) [![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/) [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
 
-<!-- ### CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
-
-👉 [Join Here](https://islemmaboud.com/join-newsletter) -->
-
-
-<!-- TODO: Add last video link -->
 
 ### What I currently Do
 
@@ -49,6 +42,8 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 <img align="left" alt="JavaScript" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" style="padding-right:10px;"/>
 
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="bootstrap" width="26" style="padding-right:10px;"/> </a>   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="heroku" width="26" style="padding-right:10px;"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linus" width="26" style="padding-right:10px;"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="26" style="padding-right:10px;" title="AWS"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="sql server"width="26" style="padding-right:10px;"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" title="mysql" style="padding-right:10px;"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="26" style="padding-right:10px;"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite"width="26" style="padding-right:10px;"/> </a>   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="26" style="padding-right:10px;" title="unity"/> </a> 
+
  <img align="left" alt="docker" width="26px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;">
 
  <img align="left" alt="JavaScript" width="26px" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;"/>
@@ -68,13 +63,22 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 <br />
 <br />
 
-#### Bizness
+### Bizness
 - 📎 [My Resume/CV](#)
 - 📬 kelvintawian224@gmail.com
 
+<details>
+<summary style="font-weight:bold;font-size: 1.1rem">
+  More stuff about me
+</summary>
+<br/>
+<p>I'm passionate about elevating fellow developers by sharing my knowledge and curating enriching resources that empower growth. As a dedicated web developer, I thrive on fostering a collaborative learning environment. </p>
 
-### Weekly Development Breakdown
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah&" alt="ktawiah" />
+<br /> <br/>
 
-<!--START_SECTION:waka-->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktawiah&show_icons=true&locale=en&layout=compact" alt="ktawiah" />
+<br/> <br/>
+<a href="https://www.buymeacoffee.com/kelvintawiah224@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kelvintawiah224@gmail.com" style="padding-left:11px;"  /></a>
 
-<!--END_SECTION:waka-->
+</details>
