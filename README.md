@@ -15,10 +15,10 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 
 - 🔭 In the university at the moment.
 - 🌱 I'm currently learning everything 🤣
-- 💻 Most used line of code `git commit -m "Initial Commit"`
-- 🥅 2023 goals: Learn everything about web3.
-- 📫 How to reach me: kelvintawiah224@gmail.com.
-- ⚡ Fun fact: I love playing video games and watching anime during my leisure.
+- 💻 Most used line of code: `git commit -m "Initial Commit"`🚀
+- 🥅 2023 goals: Dive headfirst into the realm of web3.🌐 👩‍💻
+- 📫 How to reach me: kelvintawiah224@gmail.com
+- ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮🌟
 
 #### Top Technologies
 
@@ -73,7 +73,8 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
   More stuff about me
 </summary>
 <br/>
-<p>I'm passionate about elevating fellow developers by sharing my knowledge and curating enriching resources that empower growth. As a dedicated web developer, I thrive on fostering a collaborative learning environment. </p>
+<p>Guided by insatiable curiosity, my journey revolves around delving into uncharted territories of technology. I delight in curating and sharing resources that serve as catalysts for meaningful growth. Collaboration and innovation are where I thrive. 🌟🔍🚀👩‍💻
+ </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
 <br /> <br/>
