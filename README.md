@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/L08MwsmqXmgZMnEGlK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/helliwoodmedia-future-helliwood-itskills-L08MwsmqXmgZMnEGlK">via GIPHY</a></p>
 
 # Hi there, I'm Kelvin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
@@ -5,10 +6,12 @@
 
 I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices and I spend most of my time trying out new technologies and coding outstanding projects.
 
+
 ### Connect with me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/KelvinTawiah928) [![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/) [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
 
+<img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 ### What I currently Do
 
@@ -74,8 +77,10 @@ I'm Kelvin Tawiah, a Full Stack Web Developer. I'm obsessed with best practices 
 <br/>
 <p>I'm passionate about elevating fellow developers by sharing my knowledge and curating enriching resources that empower growth. As a dedicated web developer, I thrive on fostering a collaborative learning environment. </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah&" alt="ktawiah" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
 <br /> <br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&locale=en" alt="ktawiah" /></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktawiah&show_icons=true&locale=en&layout=compact" alt="ktawiah" />
 <br/> <br/>
