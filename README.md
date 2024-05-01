@@ -121,9 +121,17 @@ I love python and javascript 🙃. I'm obsessed with best practices and I spend 
 
 - 📎 [My Resume/CV](#)
 - 📬 <kelvintawian224@gmail.com>
+<details>
+<summary style="font-weight:bold;font-size: 1.1rem">
+  View Stats
+</summary>
+<br/>
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
+<br /> <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&locale=en" alt="ktawiah" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&locale=en" alt="ktawiah" />
-
+<br/> <br/>
+</details>
 <br/> <br/>
