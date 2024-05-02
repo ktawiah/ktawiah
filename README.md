@@ -2,20 +2,18 @@
 
 🚀 Check out my New Portfolio [gitkelly.com](#)
 
-I love python and javascript 🙃. I'm obsessed with best practices and I spend most of my time trying out new technologies and coding outstanding projects. Guided by insatiable curiosity, my journey revolves around delving into uncharted territories of technology. I delight in curating and sharing resources that serve as catalysts for meaningful growth. Collaboration and innovation are where I thrive. 🌟🔍🚀👩‍💻
+I love python and javascript 🙃. I'm obsessed with best practices and I spend most of my time trying out new technologies and coding outstanding projects. I delight in curating and sharing resources that serve as catalysts for meaningful growth. Collaboration and innovation are where I thrive. 🌟🔍🚀👩‍💻
 
 ### Connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/KelvinTawiah928) [![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/) [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/CodePen-open-blue?logo=codepen)](https://codepen.io/ktawiah)
 
 
-### What I currently Do
+### What I currently do
 
 - 🔭 In college at the moment.
 - 🌱 I'm currently learning everything 🤣
 - 💻 Most used line of code: `git commit -m "Initial Commit"`🚀
-- 🥅 2023 goals: Dive headfirst into the realm of web3.🌐 👩‍💻
 - 📫 How to reach me: <kelvintawiah224@gmail.com>
 - ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮🌟
 
