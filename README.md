@@ -2,7 +2,7 @@
 
 🚀 Check out my new portfolio [here](https://kelvintawiahdev.vercel.app/)
 
-I'm your friendly neighborhood coder, passionate about all things tech! 🖥️✨ I love to collaborate on projects and dive into the latest technologies. I'm fluent in the language of code – no matter the dialect and always eager to learn and grow.🤹
+I'm a junior developer with a passion for all things tech! 🖥️✨ Currently honing my skills across multiple languages, I'm always eager to learn, grow, and take on new challenges. 🤹‍♂️
 
 ### Connect with me
 
@@ -110,15 +110,15 @@ I'm your friendly neighborhood coder, passionate about all things tech! 🖥️�
       />
   </div>
 </foreignObject>
-<br/>
+<!-- <br/>
 <details>
 <summary style="font-weight:bold;font-size: 1.1rem">
   View Stats
 </summary>
-<br/>
+<br/> -->
   
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
+<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
 <br /> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&locale=en" alt="ktawiah" /></p>
-</details>
+</details> -->
