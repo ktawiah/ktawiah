@@ -2,25 +2,25 @@
 
 🚀 Check out my new portfolio [here](https://kelvintawiahdev.vercel.app/)
 
-I'm a junior developer with a passion for all things tech! 🖥️✨ Currently honing my skills across multiple languages, I'm always eager to learn, grow, and take on new challenges. 🤹‍♂️
 
 ### Connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/KelvinTawiah928) 
-[![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_the.ruler/)
+[![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/walkr.k/)
 [![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
 
 
 ### What I currently do
 
 - 🔭 In college at the moment.
-- 🌱 On a journey to learn everything under the tech sun! ☀️
-- 💻 Favorite mantra: `git commit -m "Initial Commit"`🚀
-- ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮🌟
+- 🌱 Currently a journey to mastery in dev, one discovery at a time.💡
+- ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮
 
 
+
+
+<!--
 ### Languages, Frameworks, and Tools
-
 <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
     <div class="tools">
@@ -110,7 +110,7 @@ I'm a junior developer with a passion for all things tech! 🖥️✨ Currently 
       />
   </div>
 </foreignObject>
-<!-- <br/>
+ <br/>
 <details>
 <summary style="font-weight:bold;font-size: 1.1rem">
   View Stats
