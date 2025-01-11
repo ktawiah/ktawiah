@@ -14,12 +14,11 @@
 
 - 🔭 In college at the moment.
 - 🌱 Currently a journey to mastery in dev, one discovery at a time.💡
-- ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮
+<!-- - ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮
 
 
 
 
-<!--
 ### Languages, Frameworks, and Tools
 <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
