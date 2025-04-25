@@ -22,12 +22,12 @@
 
 ---
 
-## 🛠️ Tech Stack I Love
+## 🛠️ Stack Snapshot
 
 <p align="center"> <!-- Backend Frameworks --> <img src="https://skillicons.dev/icons?i=spring,django" alt="Spring Boot and Django" /> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=java,python,cpp" alt="Languages: Java, Python, C++" /> <!-- Databases & DevOps --> <img src="https://skillicons.dev/icons?i=postgres,docker,aws" alt="PostgreSQL, Docker, AWS" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,linux,idea" alt="Tools: Git, Linux, IntelliJ" /> <!-- Frontend (bonus) --> <img src="https://skillicons.dev/icons?i=figma,react,nextjs" alt="Figma, React & Next.js" /> </p>
----
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
+---
 
 <details>
   <summary>✨ My Dev Metrics</summary>
@@ -38,7 +38,7 @@
   </p>
 </details>
 
----
+--->
 
 ## 🧠 Quirks & Code Thoughts
 
