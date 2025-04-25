@@ -1,128 +1,58 @@
+<h1 align="center">
+  Hey there! I'm Kelvin Tawiah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">
+</h1>
 
-<!-- 
-<h1 align="left">Hi there, I'm Kelvin Tawiah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<h3 align="center">🚀 Software Engineer | 🤖 AI Curious & Backend Serious</h3>
 
-🚀 Check out my new portfolio [here](https://kelvintawiahdev.vercel.app/) -->
+<p align="center">
+  <a href="https://kelvinverse.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:kelivntawiah224@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ktawiah/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-<!--
-### Connect with me
+---
 
-[![Twitter Badge](https://img.shields.io/badge/-@Walker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KelvinTawiah928)](https://twitter.com/KelvinTawiah928) 
-[![Linkedin Badge](https://img.shields.io/badge/-ktawiah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktawiah/) [![Instagram Badge](https://img.shields.io/badge/-@kellywalker-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/walkr.k/)
-[![Mail Badge](https://img.shields.io/badge/-kelvintawiah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kelivntawiah224@gmail.com)
-### What I currently do
--->
+## 👨🏽‍💻 About Me
 
+🎯 I'm on a mission to **build impactful software** that solves real-world problems with clean, scalable code.  
+🧠 Passionate about **Software Engineering**, **Mathematics**, and **AI systems**.  
+🧪 Currently diving deep into **Java** and expanding my backend arsenal.  
+🤝 Open to **collaborations**, **mentorships**, and **team adventures**.  
+🎮 Off-duty? You'll catch me gaming, watching anime, or daydreaming about my next side project.
 
-- 👋 Hello there, I’m Kelvin Tawiah
-- 💻 I’m interested in Software Engineering, Mathematics, and Artificial Intelligence
-- 🌱 I'm currently learning Java and exploring its related tech stacks
-- 🚀 I'm excited about completing impactful projects
-- 📬 How to reach me: [Linkedin](https://linkedin.com/in/ktawiah)
-<!-- - ⚡ Fun fact: When I kick back and relax, video games and anime are my go-to.🎮
+---
 
+## 🛠️ Tech Stack I Love
 
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nextjs,django,tailwind,docker,postgres,sqlite,git,figma,aws" alt="Kelvin's Tech Stack" />
+</p>-->
+<p align="center"> <!-- Backend Frameworks --> <img src="https://skillicons.dev/icons?i=spring,django" alt="Spring Boot and Django" /> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=java,python,cpp" alt="Languages: Java, Python, C++" /> <!-- Databases & DevOps --> <img src="https://skillicons.dev/icons?i=postgres,docker,aws" alt="PostgreSQL, Docker, AWS" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,linux,idea" alt="Tools: Git, Linux, IntelliJ" /> <!-- Frontend (bonus) --> <img src="https://skillicons.dev/icons?i=figma,react,nextjs" alt="Figma, React & Next.js" /> </p>
+---
 
+## 📊 GitHub Stats
 
-### Languages, Frameworks, and Tools
-<foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-    <div class="tools">
-      <img
-        alt="HTML5"
-        width="45px"
-        title="HTML"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-      />
-      <img
-        alt="CSS"
-        width="45px"
-        title="CSS"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48"
-      />
-      <img
-        alt="Python"
-        title="Python"
-        width="45px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      />
-      <img
-        alt="tailwind"
-        title="tailwindcss"
-        width="56px"
-        src="https://github.com/tailwindlabs.png?size=40"
-      />
-      <img
-        alt="JavaScript"
-        width="36px"
-        title="Javascript"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48"
-      />
-      <img
-        alt="github"
-        width="36px"
-        title="typescript"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      />
-      <img
-        alt="nextjs"
-        width="45px"
-        title="nextjs"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      />
-      <img
-        alt="django"
-        width="45px"
-        title="django"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        alt="aws"
-        width="45px"
-        title="AWS"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-        alt="sqlite"
-        title="sqlite"
-        width="45px"
-      />
-      <img
-        alt="github"
-        width="45px"
-        title="github"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
-      />
-      <img
-        alt="docker"
-        width="49px"
-        title="Docker"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      />
-      <img
-        alt="figma"
-        width="38px"
-        title="figma"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      />
-      <img
-        alt="github"
-        title="git"
-        width="42px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      />
-  </div>
-</foreignObject>
- <br/>
 <details>
-<summary style="font-weight:bold;font-size: 1.1rem">
-  View Stats
-</summary>
-<br/> -->
-  
-<!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah" alt="ktawiah" />
-<br /> <br/>
+  <summary>✨ My Dev Metrics</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&theme=radical&count_private=true" height="170" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktawiah&theme=radical" height="170" />
+  </p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktawiah&show_icons=true&locale=en" alt="ktawiah" /></p>
-</details> -->
+---
+
+## ✨ Fun Facts
+
+- 🕶 I believe in *"code that reads like poetry, scales like infrastructure."*
+- 🖌 I sometimes design before I develop — it's the Figma in me.
+- 🧩 I think programming is just solving creative puzzles with caffeine.
+
+---
+
+> *"I write code, fix bugs, and question my life choices — in a very aesthetic editor."*
+
+
+---
+
