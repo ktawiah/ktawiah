@@ -2,7 +2,7 @@
   Hey there! I'm Kelvin Tawiah <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">
 </h1>
 
-<h3 align="center">🚀 Software Engineer | 🤖 AI Curious & Backend Serious</h3>
+<h3 align="center">🚀 Software Engineer | 🤖 AI Curious | 💻 Backend Serious</h3>
 
 <p align="center">
   <a href="https://kelvinverse.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -24,9 +24,6 @@
 
 ## 🛠️ Tech Stack I Love
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nextjs,django,tailwind,docker,postgres,sqlite,git,figma,aws" alt="Kelvin's Tech Stack" />
-</p>-->
 <p align="center"> <!-- Backend Frameworks --> <img src="https://skillicons.dev/icons?i=spring,django" alt="Spring Boot and Django" /> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=java,python,cpp" alt="Languages: Java, Python, C++" /> <!-- Databases & DevOps --> <img src="https://skillicons.dev/icons?i=postgres,docker,aws" alt="PostgreSQL, Docker, AWS" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,linux,idea" alt="Tools: Git, Linux, IntelliJ" /> <!-- Frontend (bonus) --> <img src="https://skillicons.dev/icons?i=figma,react,nextjs" alt="Figma, React & Next.js" /> </p>
 ---
 
@@ -43,7 +40,7 @@
 
 ---
 
-## ✨ Fun Facts
+## 🧠 Quirks & Code Thoughts
 
 - 🕶 I believe in *"code that reads like poetry, scales like infrastructure."*
 - 🖌 I sometimes design before I develop — it's the Figma in me.
